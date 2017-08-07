@@ -1,1 +1,1 @@
-Learning how to use git a version-controled tool.
+Learning how to use git a distributed version control system.
